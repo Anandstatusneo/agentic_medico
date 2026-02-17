@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
  
 ![logo](https://github.com/Anandstatusneo/agentic_medico/blob/main/assets/logo_rounded.png)
 
